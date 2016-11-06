@@ -1,0 +1,6 @@
+{
+  "name": "Thoradia",
+  "tagline": "Add-ons for LibreELEC",
+  "body": "# Thoradia\r\n\r\n##Add-ons for LibreELEC\r\n\r\n### Add-ons\r\n- CouchPotato\r\n- Headphones\r\n- NZBGet\r\n- SABnzbd\r\n- SickRage\r\n- Sonarr\r\n- Transmission\r\n\r\n### Installation\r\nAdd-ons are available [here](https://github.com/thoradia/thoradia \"add-ons\").  \r\nDownload and install any add-on corresponding to your release of LibreELEC.  \r\nEach add-on behaves as an add-on repository, from which further add-ons may be installed.\r\n\r\n### Feedback\r\nProvide feedback [here](https://github.com/thoradia/LibreELEC.tv/issues \"issues\").\r\n\r\n### Source\r\nThe source code is available [here](https://github.com/thoradia/LibreELEC.tv/tree/thoradia/packages/thoradia \"source\").\r\n\r\n### Disclaimer\r\nThis project is built with and runs on LibreELEC, but does not otherwise relate to LibreELEC.  \r\nDo therefore not expect any support from LibreELEC.  \r\n\r\nKeep it legal and carry on\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
