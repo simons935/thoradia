@@ -1,6 +1,0 @@
-{
-  "name": "Thoradia",
-  "tagline": "Add-ons for LibreELEC",
-  "body": "# Thoradia\r\n\r\n##Add-ons for LibreELEC\r\n\r\n### Add-ons\r\n- CouchPotato\r\n- Deluge\r\n- Headphones\r\n- Jackett\r\n- NZBGet\r\n- SABnzbd\r\n- SickRage\r\n- Sonarr\r\n- Transmission\r\n\r\n### Installation\r\n1. Install the [add-on repository](https://raw.githubusercontent.com/thoradia/thoradia/master/service.thoradia.zip \"add-on repository\")\r\n2. Restart Kodi\r\n3. Install add-ons from the Thoradia add-on repository\r\n\r\nAdd-ons are also available [here](https://github.com/thoradia/thoradia \"add-ons\").  \r\n\r\n### Feedback\r\nProvide feedback [here](https://github.com/thoradia/LibreELEC.tv/issues \"issues\").\r\n\r\n### Source\r\nThe source code is available [here](https://github.com/thoradia/LibreELEC.tv/tree/thoradia/packages/thoradia \"source\").\r\n\r\n### Disclaimer\r\nThis project is built with and runs on LibreELEC, but does not otherwise relate to LibreELEC.  \r\nDo therefore not expect any support from LibreELEC.  \r\n\r\nKeep it legal and carry on\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
