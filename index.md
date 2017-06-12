@@ -10,6 +10,7 @@
 - NZBGet
 - qBittorrent
 - Radarr
+- rTorrent
 - SABnzbd
 - SickRage
 - Sonarr
