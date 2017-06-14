@@ -11,6 +11,7 @@
 - qBittorrent
 - Radarr
 - rTorrent
+- ruTorrent
 - SABnzbd
 - SickRage
 - Sonarr
