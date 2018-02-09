@@ -4,10 +4,12 @@
 
 ### Add-ons
 - aria2
+- btfs
 - CouchPotato
 - Deluge
 - Headphones
 - Jackett
+- Lidarr
 - Medusa
 - NZBGet
 - NZBHydra
